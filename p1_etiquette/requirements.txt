@@ -1,0 +1,4 @@
+pillow
+pdf2image
+numpy
+matplotlib
